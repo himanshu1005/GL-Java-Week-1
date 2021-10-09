@@ -1,2 +1,7 @@
-# GL-Java-Week-1
-This repository is used for Great Learning Java course
+# Week1
+
+Please configure urls in program arguments
+
+https://economictimes.indiatimes.com/
+https://www.ft.com/
+https://www.moneycontrol.com/
